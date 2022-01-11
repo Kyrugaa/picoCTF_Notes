@@ -1,6 +1,14 @@
 # picoCTF_Notes 2022
 
 
+## Obedient Cat
+
+### Description
+
+#### This file has a flag in plain sight (aka "in-the-clear"). Download flag.
+
+
+
 
 ## Python Wrangling | 10 points
 
