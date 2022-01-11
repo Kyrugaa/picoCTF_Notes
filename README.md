@@ -1,7 +1,7 @@
 # picoCTF_Notes 2022
 
 
-## Obedient Cat | 5 points
+## TASK 1: Obedient Cat | 5 points
 
 
 ### Description
@@ -28,7 +28,7 @@
 
 
 
-## Python Wrangling | 10 points
+## TASK 3: Python Wrangling | 10 points
 
 
 ### Description
