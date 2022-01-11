@@ -23,6 +23,7 @@
 #### 1: mkdir obedient_cat
 #### 2: $ wget https://mercury.picoctf.net/static/a5683698ac318b47bd060cb786859f23/flag
 #### 3: cat flag
+#### 4: picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 
 
 
