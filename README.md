@@ -62,3 +62,14 @@
 #### 1: Get the Python script accessible in your shell by entering the following command in the Terminal prompt: $ wget https://mercury.picoctf.net/static/2ac2139344d2e734d5d638ac928f1a8d/ende.py
 
 #### 2: $ man python
+
+
+### Process:
+#### 1: mkdir python_wrangling
+#### 2: wget https://mercury.picoctf.net/static/2ac2139344d2e734d5d638ac928f1a8d/ende.py
+#### 3: pw.txt and flag.txt.en download in python_wrangling Directory.
+#### 4: python3 ende.py -d flag.txt.en
+#### 5: Please enter the password: 68f88f9368f88f9368f88f9368f88f93
+#### 6: picoCTF{4p0110_1n_7h3_h0us3_68f88f93}
+
+
