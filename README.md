@@ -6,7 +6,7 @@
 
 ### Description
 
-#### - This file has a flag in plain sight (aka "in-the-clear"). Download flag.
+#### This file has a flag in plain sight (aka "in-the-clear"). Download flag.
 
 
 
@@ -25,6 +25,26 @@
 #### 3: cat flag
 #### 4: picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 
+
+## TASK 2: Mod 26 | 10 points
+
+
+### Description
+
+#### Cryptography can be easy, do you know what ROT13 is? cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_uJdSftmh}
+
+
+
+### Hints:
+
+#### 1: This can be solved online if you don't want to do it by hand!
+
+
+
+### Process:
+#### 1: Copy cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_uJdSftmh}
+#### 2: Converted it on https://codebeautify.org/rot13-to-text-converter
+#### 3: picoCTF{next_time_I'll_try_2_rounds_of_rot13_hWqFsgzu}
 
 
 
