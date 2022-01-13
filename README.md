@@ -96,3 +96,24 @@
 #### 3: chmod +x warm
 #### 4: ./warm -h 
 #### 5: picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}
+
+
+## TASK 5: information | 10 points
+
+
+### Discription
+
+#### Files can always be changed in a secret way. Can you find the flag? cat.jpg
+
+
+### Hints
+#### 1: Look at the details of the file
+#### 2: Make sure to submit the flag as picoCTF{XXXXX}
+
+
+### Process:
+#### 1: mkdir information
+#### 2: wget https://mercury.picoctf.net/static/149ab4b27d16922142a1e8381677d76f/cat.jpg
+#### 3: strings cat.jpg | less
+#### 4: echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
+#### 5: picoCTF{the_m3tadata_1s_modified}
