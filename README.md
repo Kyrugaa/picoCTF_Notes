@@ -90,3 +90,9 @@
 #### 4: -h and --help are the most common arguments to give to programs to get more information from them!
 #### 5: Not every program implements help features like -h and --help.
 
+### Process:
+#### 1: mkdir wave_a_flag
+#### 2: wget https://mercury.picoctf.net/static/fc1d77192c544314efece5dd309092e3/warm
+#### 3: chmod +x warm
+#### 4: ./warm -h 
+#### 5: picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}
